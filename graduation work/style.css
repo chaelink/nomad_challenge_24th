@@ -1,0 +1,28 @@
+.hidden {
+    display: none ;
+}
+
+
+.ck {
+    font-size:60px;
+    color:rgb(250, 247, 247);
+    font-family:'Times New Roman', Times, serif;
+}
+
+#greeting {
+    font-size :120px;
+    color:white;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#quote {
+    text-align:center;
+    font-size:20px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+#weather { 
+    text-align:center;
+    font-family:'Times New Roman', Times, serif;
+}
